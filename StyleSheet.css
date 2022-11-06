@@ -1,0 +1,138 @@
+﻿body {
+    font-family: Courier New, Courier, monospace;
+    color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+
+
+.movie {
+    color: #FFFFFFB3;
+}
+
+.header {
+    font-family: Georgia;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2px;
+    line-height: 15px;
+}
+
+
+.site {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.menu {
+    color: lawngreen;
+    font-family: cursive;
+    line-height: 15px;
+    padding-top: 15px;
+    padding-left: 5px;
+    
+}
+
+.menu1 {
+    color: lawngreen;
+    font-family: cursive;
+    line-height: 15px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.menu2 {
+    color: lawngreen;
+    font-family: cursive;
+    line-height: 15px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.a1 {
+    line-height: 1px;
+}
+
+.text {
+    padding-left: 10px;
+}
+
+.text1 {
+    
+}
+
+.txt {
+    text-align: center;
+}
+
+.cards {
+    margin: -2px -15px -51px 15p; 
+    display: flex;
+}
+
+.cards_row {
+    margin: 0px -89px 4px -50px;
+    display: flex;
+}
+
+.cards_column {
+    flex: -5 1 33.333%;
+    padding: 12px 56px;
+}
+
+.cards_item{}
+
+.cards_image {
+    padding-top: 10px;
+    width: 200px;
+}
+
+.cards_body {
+    text-align: initial;
+}
+
+.cards2 {
+    margin: -2px -15px -51px 15p;
+    display: flex;
+}
+
+.cards_row2 {
+    margin: 0px 110px 0px -50px;
+    display: flex;
+}
+
+.cards_column2 {
+    flex: -5 1 33.333%;
+    padding: 0px 50px;
+}
+
+.cards_item2 {
+}
+
+.cards_image2 {
+    padding-top: -5px;
+    max-width: 200px;
+}
+
+.cards_body2 {
+    text-align: right;
+    color: red;
+}
+
+.cards_body3 {
+    text-align: right;
+    color: deepskyblue;
+}
+
+html {
+    background-image: url(https://kartinkin.net/uploads/posts/2021-04/1617599795_7-p-obichnii-chernii-fon-7.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
